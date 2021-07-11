@@ -5,6 +5,7 @@
 implemeting convex hull using p5.js
 
 
+
 각 점에서 가장 왼쪽에있는(반시계방향의) 점을 선택해 연결해 나간다.
 왼쪽 판별법: 벡터 곱(cross vector)
 2차원상의 x,y에 대해서 벡터곱을 해주면 3차원의 z방향이 나오는데
@@ -16,7 +17,7 @@ x,y가 완전히 상쇄될시 0이 된다.
 
 
 https://pensive-murdock-4eb429.netlify.app
-
+![](./ezgif.com-gif-maker.gif)
 
 
 
